@@ -1,0 +1,7 @@
+{
+	"name": "test",
+	"image": "alpine:latest",
+	"features": {
+		"./foo": {}
+	}
+}
